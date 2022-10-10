@@ -1,2 +1,2 @@
 # Space-shooter
-Grade 10 compsci FSE that built by me and Ilias Blassel
+The grade 10 compsci FSE that built by me and Ilias Blassel
