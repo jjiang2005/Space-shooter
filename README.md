@@ -1,2 +1,2 @@
 # Space-shooter
-ICS2O compsci FSE
+ICS2O FSE
